@@ -4,8 +4,6 @@
 
 This project analyses the Amazon Prime Video library to understand **production trends, audience preferences and genre performance**, using IMDb and TMDB metrics. The goal is to produce business insights that can guide **content acquisition, production planning and investment decisions** for a streaming platform.
 
-![Genres by decade](images/1_genres_by_decade_heatmap.png)
-
 ---
 
 ## 📌 Problem Statement
